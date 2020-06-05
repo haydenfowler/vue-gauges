@@ -1,4 +1,4 @@
-# vue-guages
+# vue-gauges
 
 ## Project setup
 ```
